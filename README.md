@@ -1,4 +1,4 @@
-# DarknetGNNClassifier
+# Darknet Scanner Classification
 
 Using Graph Neural Networks to classify scanner behavior by mapping the Darknet as a graph
 
