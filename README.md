@@ -2,7 +2,7 @@
 
 Using Graph Neural Networks to classify scanner behavior by mapping the Darknet as a graph
 
-Project done as the final project for my "Networking and Machine Learning class"
+Project done as the final project for my "DSCI559 - ML for Secure Internet"
 > A graduate class bridging Networking and Machine Learning
 
 ## Motivation
